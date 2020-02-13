@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    color: white;
+    font-family: Snell Roundhand, cursive;
+    text-align: center;
+}
+
+.photo {
+    width: 100%;
+    margin: 0px;
+    padding-top: 30px;
+}
+
+h2 {
+    color: #fbc3bc;
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+}
+
+a {
+    color: white;
+    font-family: Apple Chancery, cursive;
+    padding-left: 30px;
+    font-size: larger;
+}
